@@ -1,0 +1,8 @@
+{
+  "name": "CHAPEL – Raum für Stadtkultur | Heidelberg-Südstadt",
+  "description": "Alternative digitale Identität, Programmübersicht, interaktiver Raumexplorer und Stadtlabor für das Bürger- und Kulturzentrum CHAPEL in Heidelberg.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
